@@ -27,14 +27,14 @@ This is a simple console-based Rocket Shooting Game developed using the C langua
 ## 4. Implementation Details
 This project implements several core concepts of C programming, including:
 
-🏗 **Functions:** Used to modularize the program (e.g., menu navigation, game logic, etc.).
-🏛 **Structures:** Used to store the player’s rocket, bullets, and enemies' positions, as well as high scores.
-🎯 **Pointers:** Utilized for handling dynamic memory and structure manipulation.
-🎲 **Random Number Generation:** For spawning enemies at random positions.
-📂 **File Handling & Score Management:** Storing and retrieving high scores using file I/O.
-🔁 **Control Flow:** Implementation of conditionals, loops, and user inputs for dynamic game behavior.
-💥 **Game Logic:** Collision detection between bullets and enemies, and the game-over condition.
-🎵 **Sound & Menu Management:** Background music, sound effects, and structured navigation for user-friendly interaction.
+- 🏗 **Functions:** Used to modularize the program (e.g., menu navigation, game logic, etc.).
+- 🏛 **Structures:** Used to store the player’s rocket, bullets, and enemies' positions, as well as high scores.
+- 🎯 **Pointers:** Utilized for handling dynamic memory and structure manipulation.
+- 🎲 **Random Number Generation:** For spawning enemies at random positions.
+- 📂 **File Handling & Score Management:** Storing and retrieving high scores using file I/O.
+- 🔁 **Control Flow:** Implementation of conditionals, loops, and user inputs for dynamic game behavior.
+- 💥 **Game Logic:** Collision detection between bullets and enemies, and the game-over condition.
+- 🎵 **Sound & Menu Management:** Background music, sound effects, and structured navigation for user-friendly interaction.
 
 ---
 
@@ -53,10 +53,10 @@ This project implements several core concepts of C programming, including:
 ---
 
 ## 6. Screenshots
-![Main Menu](pro1.png)
-![Gameplay](pro2.png)
-![High Scores](pro3.png)
-![Instructions](pro4.png)
-![Task Distribution](pro5.png)
+![Main Menu](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro1.png?raw=true)
+![Gameplay](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro2.png?raw=true)
+![High Scores](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro3.png?raw=true)
+![Instructions](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro4.png?raw=true)
+![Task Distribution](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro5.png?raw=true)
 
 
