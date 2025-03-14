@@ -1,4 +1,4 @@
-**Space Shooter Game Report**
+***Space Shooter Game Report***
 
 ## 1. Introduction
 This is a simple console-based Rocket Shooting Game developed using the C language. The game features a player-controlled rocket that can shoot bullets at enemy ships. It includes various functionalities such as movement, shooting, collision detection, and score management. Players interact with the game via the keyboard ('A' and 'D' for movement, Spacebar to shoot, 'Q' to quit).
@@ -53,10 +53,7 @@ This project implements several core concepts of C programming, including:
 ---
 
 ## 6. Screenshots
-![Main Menu](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro1.png?raw=true)
 ![Gameplay](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro2.png?raw=true)
-![High Scores](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro3.png?raw=true)
-![Instructions](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro4.png?raw=true)
-![Task Distribution](https://github.com/Hasnain848/PF_RocketGame/blob/main/Images/pro5.png?raw=true)
+
 
 
