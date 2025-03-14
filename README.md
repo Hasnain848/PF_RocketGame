@@ -1,4 +1,4 @@
-*Space Shooter Game Report*
+# Space Shooter Game Report
 
 ## 1. Introduction
 This is a simple console-based Rocket Shooting Game developed using the C language. The game features a player-controlled rocket that can shoot bullets at enemy ships. It includes various functionalities such as movement, shooting, collision detection, and score management. Players interact with the game via the keyboard ('A' and 'D' for movement, Spacebar to shoot, 'Q' to quit).
